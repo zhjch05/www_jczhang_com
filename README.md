@@ -1,4 +1,4 @@
-## See [https://www.jczhang.com](www.jczhang.com) for demo.
+## See [www.jczhang.com](https://www.jczhang.com) for demo.
 
 
 This project is based on the skeleton css framework.
